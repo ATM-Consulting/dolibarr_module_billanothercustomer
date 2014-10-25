@@ -33,7 +33,7 @@ function billanothercustomerAdminPrepareHead()
     $head = array();
 
     $head[$h][0] = dol_buildpath("/billanothercustomer/admin/billanothercustomer_setup.php", 1);
-    $head[$h][1] = $langs->trans("Settings");
+    $head[$h][1] = $langs->trans("Parameters");
     $head[$h][2] = 'settings';
     $h++;
     $head[$h][0] = dol_buildpath("/billanothercustomer/admin/about.php", 1);
