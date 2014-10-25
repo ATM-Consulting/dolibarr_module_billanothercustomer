@@ -1,4 +1,8 @@
 Module104260Name = Bill another customer
 Module104260Desc = Allow to create an invoice for a different customer
 
+BillAnotherCustomerSetup = Bill another customer module setup
+BillAnotherCustomerAbout = About bill another customer
+
 CustomerToBill = Customer to bill
+UseCustomerParentForInvoice = Use parent thirdparty by default when creating an invoice

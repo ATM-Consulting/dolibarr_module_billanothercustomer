@@ -1,4 +1,8 @@
 Module104260Name = Client facturé
 Module104260Desc = Permet de facturer un autre client que celui de la proposition ou de la commande
 
+BillAnotherCustomerSetup = Configuration du module client facturé
+BillAnotherCustomerAbout = A propos du module client facturé
+
 CustomerToBill = Client à facturer
+UseCustomerParentForInvoice = Utiliser la maison mère par défaut lors de la facturation
