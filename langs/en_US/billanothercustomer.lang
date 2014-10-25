@@ -1,2 +1,4 @@
 Module104260Name = Bill another customer
 Module104260Desc = Allow to create an invoice for a different customer
+
+CustomerToBill = Customer to bill

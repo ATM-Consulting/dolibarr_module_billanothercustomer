@@ -114,7 +114,7 @@ class modBillAnotherCustomer extends DolibarrModules
 		//                             1=>array('MYMODULE_MYNEWCONST2','chaine','myvalue','This is another constant to add',0, 'current', 1)
 		// );
 		$this->const = array(
-			0=>array('BILLANOTHERCUSTOMER_USE_PARENT_BY_DEFAULT','chaine','0','Use customer parent as default billable customer',0, 'current', 1)
+			0=>array('BILLANOTHERCUSTOMER_USE_PARENT_BY_DEFAULT','chaine','0','Use customer parent as default billable customer',1, 'current', 1)
 		);
 
 		// Array to add new pages in new tabs
