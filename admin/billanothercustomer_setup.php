@@ -93,7 +93,7 @@ dol_fiche_head(
     'settings',
     $langs->trans("Module104260Name"),
     0,
-    "billanothercustomer@billanothercustomer"
+    "bill"
 );
 
 // Setup page goes here
