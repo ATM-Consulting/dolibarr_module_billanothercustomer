@@ -143,7 +143,7 @@ class modBillAnotherCustomer extends DolibarrModules
         $this->tabs = array();
 
         // Dictionaries
-	    if (! isset($conf->billanothercustomer->enabled))
+	    if (!isModEnabled('billanothercustomer'))
         {
         	$conf->billanothercustomer=new stdClass();
         	$conf->billanothercustomer->enabled=0;
